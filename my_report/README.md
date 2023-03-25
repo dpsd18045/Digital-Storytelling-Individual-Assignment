@@ -2,7 +2,7 @@
 
 ### First and Last Name: Κατερίνα Κατωπόδη
 ### University Registration Number: dpsd18045
-### GitHub Personal Profile: 
+### GitHub Personal Profile: https://github.com/dpsd18045
 ### Digital-Storytelling-Individual-Assignment: 
 
 # Introduction
