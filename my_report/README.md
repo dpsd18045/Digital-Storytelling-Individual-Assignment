@@ -67,14 +67,13 @@ https://user-images.githubusercontent.com/115795739/236692747-44f1045d-28b0-43e0
 
 
 7o Unit:
-Στη συνέχεια, με βάση τις οδηγίες δεν κατάφερα να φτιάξω σπίθες ωστόσο δημιούργησα τον καπνό. Έπειτα τοποθέτησα ήχο κατα τη διάρκεια του βίντεο και τέλος πρόσθεσα ένα κείμενο που λεει "Riri's Town" σε μωβ μπλε χρώματα στο πάνω μέρος του βίντεο. 
+Στη συνέχεια, με βάση τις οδηγίες δεν κατάφερα να φτιάξω σπίθες ωστόσο δημιούργησα τον καπνό. Έπειτα τοποθέτησα ήχο κατα τη διάρκεια του βίντεο και τέλος πρόσθεσα ένα κείμενο που λεει "Riri's Town" σε μωβ μπλε χρώματα στο πάνω μέρος του βίντεο. Ο ήχος που χρησιμοποίησα είναι ο εξής:
+https://pixabay.com/sound-effects/highway-14475/
 
 ![image](https://user-images.githubusercontent.com/115795739/236693600-c8d7dd61-376d-4626-a6d4-5a0a73aab902.png)
 ![image](https://user-images.githubusercontent.com/115795739/236693628-3bbe067a-dd5f-485d-b34a-5fae5443dfef.png)
 ![image](https://user-images.githubusercontent.com/115795739/236694105-bd77502b-2aa8-442e-a38e-001ba2291cb4.png)
 
-ηχος
-https://pixabay.com/sound-effects/highway-14475/
 
 https://user-images.githubusercontent.com/115795739/236695424-e85b0575-725f-4238-b5e1-a9d9aed52f33.mp4
 
