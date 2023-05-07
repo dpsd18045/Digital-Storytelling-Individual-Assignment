@@ -52,6 +52,14 @@ https://user-images.githubusercontent.com/115795739/236688429-bbad235a-b2aa-47dd
 6o Unit:
 Σε αυτό το σημείο πρόσθεσα φωτισμό με την δική μου ασιθητική σε διάφορα σημεία στο χώρο, δίνοντας το ύφος που θέλω. Ακολούθησα πιστά τις οδηγίες και τις προσάρμοσα στα δικά μου γούστα. 
 
+
+![image](https://user-images.githubusercontent.com/115795739/236691114-0c5a2087-a34e-47ce-9bcd-c58b90fd7ecf.png)
+![image](https://user-images.githubusercontent.com/115795739/236691159-4b4f91d9-9f84-484e-af98-d14c929c5dbd.png)
+![image](https://user-images.githubusercontent.com/115795739/236691204-c3636bcc-70de-4000-8792-4536639da163.png)
+
+
+https://user-images.githubusercontent.com/115795739/236690977-73aeeafa-6832-41be-b53c-1afffe851b83.mp4
+
 7o Unit:
 
 
